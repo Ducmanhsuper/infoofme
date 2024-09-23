@@ -39,7 +39,7 @@ const app = {
         },
 
         {
-            name: 'Yosobi',
+            name: 'Yoasobi',
             singer: 'AV',
             src: './assets/mp3/YOASOBI.mp3'
         },
